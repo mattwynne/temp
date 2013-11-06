@@ -1,2 +1,4 @@
 Feature: Foo
 
+test
+
