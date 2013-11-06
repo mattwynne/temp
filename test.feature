@@ -1,3 +1,2 @@
-Here is some stuff.
+Feature: Foo
 
-And some more stuffasdfasdf
