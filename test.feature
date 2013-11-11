@@ -1,6 +1,6 @@
 Feature: Test
 
-Given
-When
-Then...
+Given an administrator user "David"
+When I visit the homepage
+Then expect the message "Welcome, David"
 
