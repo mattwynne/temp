@@ -6,7 +6,6 @@ Feature: Search
     - price limit / range
     - metalic / plastic paint
     - CD mulitchanger
-    - WTF
     
     Given I want to buy a car
     And I specify the details of the car I want
