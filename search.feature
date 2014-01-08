@@ -5,6 +5,13 @@ Acceptance criteria:
 	- one
   - two 
   
-Scenarios: user forgot paassword
+http://
   
-Scenarios: 
+Scenario: user forgot paassword
+  
+Scenario: 
+	Given foo
+  When batr
+  Then thingy
+  
+  Examples: 	
