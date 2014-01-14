@@ -13,5 +13,3 @@ Scenario:
 	Given foo
   When batr
   Then thingy
-  
-  Examples: 	
