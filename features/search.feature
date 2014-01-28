@@ -13,3 +13,4 @@ Scenario:
 	Given foo
   When batr
   Then thingy
+  And I have found the car of my dreams
