@@ -8,3 +8,4 @@ Feature: Baz
   	Given a
     Then I buy the car
     Then I have found the car of my dreams
+    And things
