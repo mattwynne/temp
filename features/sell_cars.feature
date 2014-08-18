@@ -7,3 +7,4 @@ Feature: Sell cars
     
     new line
     another new line
+    test
