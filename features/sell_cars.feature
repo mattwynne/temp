@@ -8,3 +8,4 @@ Feature: Sell cars
     new line
     another new line
     test
+    the last line I need to type
