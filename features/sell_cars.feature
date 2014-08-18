@@ -6,4 +6,4 @@ Feature: Sell cars
     Then I should be charged the appropriate amount
     
     new line
-
+    another new line
