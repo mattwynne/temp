@@ -4,4 +4,6 @@ Feature: Sell cars
   	Given I have found the car of my dreams
     When I buy the car
     Then I should be charged the appropriate amount
+    
+    new line
 
