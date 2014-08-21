@@ -5,4 +5,4 @@ Feature: Sell cars
     When I buy the car
     Then I should be charged the appropriate amount
     And a new step to test autocomplete
-    
+    And another new step
