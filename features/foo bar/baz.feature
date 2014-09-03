@@ -5,7 +5,6 @@
 Feature: Baz
 
 	Scenario: First scenario
-  	Given a
-    Then I buy the car
+  	Given I have a ton of money
+    When I buy a Ferrari 458 Italia
     Then I have found the car of my dreams
-    And things
