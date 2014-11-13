@@ -6,3 +6,7 @@ Feature: Sell cars
     Then I should be charged the appropriate amount
     And a new step to test autocomplete
     And another new step
+    And I buy a Ferrari 458 Italia
+  
+  
+    
